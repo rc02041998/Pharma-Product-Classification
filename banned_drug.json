@@ -1,0 +1,2593 @@
+{
+    "banned_drugs": [
+        {
+            "sr_no": 1,
+            "drug_name": "Amidopyrine.",
+            "notification_no": ["578(E)"],
+            "date": ["23.07.1983"]
+        },
+        {
+            "sr_no": 2,
+            "drug_name": "Fixed dose combinations of vitamins with anti -inflammatory  agents and tranquilizers .",
+            "notification_no": ["578(E)"],
+            "date": ["23.07.1"]
+        },
+        {
+            "sr_no": 3,
+            "drug_name": "Fixed dose combinations of Atropine in Analgesics and  Antipyretics.",
+            "notification_no": ["578(E)"],
+            "date": ["23.07.1983"]
+        },
+        {
+            "sr_no": 4,
+            "drug_name": "Fixed dose combinations of Strychnine and Caffeine in tonics.",
+            "notification_no": ["578(E)"],
+            "date": ["23.07.1"]
+        },
+        {
+            "sr_no": 5,
+            "drug_name": "Fixed dose combinations of Yohimbine and Strychnine with  Testosterone and Vitamins.",
+            "notification_no": ["578(E)"],
+            "date": ["23.07.1"]
+        },
+        {
+            "sr_no": 6,
+            "drug_name": "Fixed dose combinations of Iron with Strychnine, Arsenic and       Yohim bine.",
+            "notification_no": ["578(E)"],
+            "date": ["23.07.1"]
+        },
+        {
+            "sr_no": 7,
+            "drug_name": "Fixed dose combinations of Sodium Bromide/chloral hydrate  with other drugs.",
+            "notification_no": ["578(E)"],
+            "date": ["23.07.1"]
+        },
+        {
+            "sr_no": 8,
+            "drug_name": "Phenacetin.",
+            "notification_no": ["578(E)"],
+            "date": ["23.07.1"]
+        },
+        {
+            "sr_no": 9,
+            "drug_name": "Fixed dose combinations of antihistaminic with anti - diarrhoeal s.",
+            "notification_no": ["578(E)"],
+            "date": ["23.07.1"]
+        },
+        {
+            "sr_no": 10,
+            "drug_name": "Fixed dose combinations of Penicillin with Sulphonamides.",
+            "notification_no": ["578(E)"],
+            "date": ["23.07.1983"]
+        },
+        {
+            "sr_no": 11,
+            "drug_name": "Fixed dose combinations of Vitamins with Analgesics.",
+            "notification_no": ["578(E)"],
+            "date": ["23.07.1983"]
+        },
+        {
+            "sr_no": 12,
+            "drug_name": "Fixed dose combinations of  any other Te tracycline with  Vitamin C.",
+            "notification_no": ["578(E)"],
+            "date": ["23.07.1983"]
+        },
+        {
+            "sr_no": 13,
+            "drug_name": "Fixed dose combinations of Hydroxyquinoline group of drugs  with any other drug   except for preparations meant for  external use.   Substituted  vide",
+            "notification_no": ["793(E)"],
+            "date": ["13.12.1995"]
+        },
+        {
+            "sr_no": 14,
+            "drug_name": "Fixed dose comb inations of Corticosteroids with any other  drug for internal use except for preparations meant for meter  dose inhalers and dry powder inhalers . Substituted  vide",
+            "notification_no": ["738(E)"],
+            "date": ["09.10.2009"]
+        },
+        {
+            "sr_no": 15,
+            "drug_name": "Fixed dose combinations of Chloramphenicol with any other  drug for internal use.  Substituted  vide",
+            "notification_no": ["1057(E)"],
+            "date": ["03.11.1988"]
+        },
+        {
+            "sr_no": 16,
+            "drug_name": "Fixed dose combinations of crude Ergot preparations except  those containing Ergotamine, Caffeine, analgesics,  antihistamines for the treatment of migraine, headaches.     Substituted  vide",
+            "notification_no": ["304(E)"],
+            "date": ["07.06.1991"]
+        },
+        {
+            "sr_no": 17,
+            "drug_name": "Fixed dose combinations of Vitamins with Anti TB drugs  except combination of Isoniazid with Pyridoxine Hydrochloride  (Vitamin B6).",
+            "notification_no": ["578(E)"],
+            "date": ["23.07.1983"]
+        },
+        {
+            "sr_no": 18,
+            "drug_name": "Penicillin skin/eye Ointment.",
+            "notification_no": ["578(E)"],
+            "date": ["23.07.1983"]
+        },
+        {
+            "sr_no": 19,
+            "drug_name": "Tetracycline Liquid Oral preparations.",
+            "notification_no": ["578(E)"],
+            "date": ["23.07.1983"]
+        },
+        {
+            "sr_no": 20,
+            "drug_name": "Nialamide.",
+            "notification_no": ["578(E)"],
+            "date": ["23.07.1983"]
+        },
+        {
+            "sr_no": 21,
+            "drug_name": "Practolol.",
+            "notification_no": ["578(E)"],
+            "date": ["23.07.1983"]
+        },
+        {
+            "sr_no": 22,
+            "drug_name": "Methapyrilene, its salts.",
+            "notification_no": ["578(E)"],
+            "date": ["23.07.1983"]
+        },
+        {
+            "sr_no": 23,
+            "drug_name": "Methaqualone.   GSR N O.  49(E) Dated   31.01.1984   24.  Oxytetracycline Liquid Oral preparations.   GSR NO.  322(E)Dated   03.05.1984   25.  Demeclocycline Liquid Oral preparations .  GSR NO.  322(E)Dated   03.05.1984   26.  Combination of anabolic Steroids with other drugs.",
+            "notification_no": ["863(E)"],
+            "date": ["2"]
+        },
+        {
+            "sr_no": 27,
+            "drug_name": "Fixed dose combination of Oestrogen and Progestin (other  than oral contraceptive) containing per tablet Estrogen  content of more than 50 mcg (equivalent to EthinylEstradiol)  and content of more than 3 mg(equivalent to Norethisterone  Acetate) and all fixed dose combination injectable  preparations containing synthetic Oestrogen andProgesterone.  Substituted  vide",
+            "notification_no": ["743(E)"],
+            "date": ["10.08.1"]
+        },
+        {
+            "sr_no": 28,
+            "drug_name": "Fixed dose combination of Sedatives/ hypnotics/anxiolytics   with   analgesics -antipyretics.",
+            "notification_no": ["999(E)"],
+            "date": ["26.12.1990"]
+        },
+        {
+            "sr_no": 29,
+            "drug_name": "Fixed dose combination of Rifanpicin, isoniazid and  Pyrazinamide, except those which Provide daily adult dose  given below:        Drugs  Minimum   Maximum   Rifampicin  450 mg           600 mg   Isoniazid     300 mg  400 mg   Pyrazinamide1000mg            1500 mg     Substituted  vide",
+            "notification_no": ["100(E)"],
+            "date": ["11.02.2"]
+        },
+        {
+            "sr_no": 30,
+            "drug_name": "Fixed dose combination of Histamine H -2 receptor antagonists  with antacids except for those combinations approved by  Drugs Controller, India .",
+            "notification_no": ["999(E)"],
+            "date": ["26.12.1990"]
+        },
+        {
+            "sr_no": 31,
+            "drug_name": "The patent and p roprietary medicines of fixed dose  combinations of essential oils with alcohol having percentage  higher than 20% proof except preparations given in the Indian  Pharmacopoeia.",
+            "notification_no": ["999(E)"],
+            "date": ["26.12.1990"]
+        },
+        {
+            "sr_no": 32,
+            "drug_name": "All Pharmaceutical preparations containing Chlo roform  exceeding   0.5% w/w or v/v whichever is appropriate.",
+            "notification_no": ["999(E)"],
+            "date": ["26.12.1990"]
+        },
+        {
+            "sr_no": 33,
+            "drug_name": "Fixed dose combination of Ethambutol with INH  other than  the following:   INH Ethambutol 200 mg. 600 mg. 300 mg. 800 mg.",
+            "notification_no": ["69(E)"],
+            "date": ["11.02.1991"]
+        },
+        {
+            "sr_no": 34,
+            "drug_name": "Fixed dos e combination containing more than one  antihistamine.",
+            "notification_no": ["69(E)"],
+            "date": ["11.02.1991"]
+        },
+        {
+            "sr_no": 35,
+            "drug_name": "Fixed dose combination of any anthelmintic  with  cathartic/purgative except for piperazine/Santonim .",
+            "notification_no": ["69(E)"],
+            "date": ["11.02.1991"]
+        },
+        {
+            "sr_no": 36,
+            "drug_name": "Fixed dose combination of Salbutamol  or any other  bronchodilator with centrally acting anti -tussive and/or  antihistamine.   Substituted  vide",
+            "notification_no": ["290(E)"],
+            "date": ["16.04.2008"]
+        },
+        {
+            "sr_no": 37,
+            "drug_name": "Fixed dose combination of laxatives and/or anti -spasmodic  drugs in enzyme preparations.",
+            "notification_no": ["69(E)"],
+            "date": ["11.02.1991"]
+        },
+        {
+            "sr_no": 38,
+            "drug_name": "Fixed dose combination of Metoclopramide with systemically  absorbed drugs except fixed dose combination of  metoclopramide with aspirin/paracetamol   Substituted  vide GSR NO.  603(E)Dated 2 4.08.2001   39.  Fixed dose combination of centrally acting, antitussive with  antihistamine, having high atropine like activity in  expectorants.",
+            "notification_no": ["395(E)"],
+            "date": ["19.05.1999"]
+        },
+        {
+            "sr_no": 40,
+            "drug_name": "Preparations claiming to combat cough associated with  asthma containing centrally acting antitussive and/ or an  antihistamine.",
+            "notification_no": ["395(E)"],
+            "date": ["19.05.1999"]
+        },
+        {
+            "sr_no": 41,
+            "drug_name": "Liquid oral tonic preparations containing glycerophosphates  and/or other phosphates and / or central nervous system  stimulant and such preparations containing alcohol more  than 20% proof.",
+            "notification_no": ["395(E)"],
+            "date": ["19.05.1999"]
+        },
+        {
+            "sr_no": 42,
+            "drug_name": "Fixed dose combinatio n containing Pectin and/or Kaolin with  any drug which is systemically  absorbed from GI tract except  for combinations of Pectin and/or Kaolin with drugs not   systemically absorbed.",
+            "notification_no": ["395(E)"],
+            "date": ["19.05.1999"]
+        },
+        {
+            "sr_no": 43,
+            "drug_name": "Chloral Hydrate as a drug.",
+            "notification_no": ["304(E)"],
+            "date": ["07.06.1991"]
+        },
+        {
+            "sr_no": 44,
+            "drug_name": "Dovers Powder I.P.",
+            "notification_no": ["612(E)"],
+            "date": ["09.08.1994"]
+        },
+        {
+            "sr_no": 45,
+            "drug_name": "Dover\u2019s Powder Tablets I.P.",
+            "notification_no": ["612(E)"],
+            "date": ["09.08.1994"]
+        },
+        {
+            "sr_no": 46,
+            "drug_name": "Antidiarrhoeal formulations containing Kaolin or Pectin or  Attapulgite or Activated Charcoal.",
+            "notification_no": ["731(E)"],
+            "date": ["30.09."]
+        },
+        {
+            "sr_no": 47,
+            "drug_name": "Antidiarrhoeal formulations containing  PhthalylSulphathiazole or Sulphaguanidine or  SuccinylSulphathiazole.",
+            "notification_no": ["731(E)"],
+            "date": ["30.09.1994"]
+        },
+        {
+            "sr_no": 48,
+            "drug_name": "Antidiarrhoeal formulations containing Neomycin or  Streptomycin or Dihydrostreptomycin including their  respective salts or esters .",
+            "notification_no": ["731(E)"],
+            "date": ["30.09.1994"]
+        },
+        {
+            "sr_no": 49,
+            "drug_name": "Liquid Oral antidiarrhoeals or any other dosage form for  pediatric use containing DiphenoxylateLorloperamide or  Atropine or Belladona including their salts or esters or   metabolitesHyoscyamine or t heir extracts or their alkaloids.",
+            "notification_no": ["731(E)"],
+            "date": ["30.09.1994"]
+        },
+        {
+            "sr_no": 50,
+            "drug_name": "Liquid Oral antidiarrhoeals or any other dosage form for  pediatric use containing halogenated hydroxyquinolines.",
+            "notification_no": ["731(E)"],
+            "date": ["30.09.1994"]
+        },
+        {
+            "sr_no": 51,
+            "drug_name": "Fixed dose combination of antidiarrhoeals  with electrolytes.",
+            "notification_no": ["731(E)"],
+            "date": ["30.09.1994"]
+        },
+        {
+            "sr_no": 52,
+            "drug_name": "Patent and Proprietary Oral Rehydration Salts other than  those conforming to the  following parameters:   (a) Patent and Proprietary oral rehydration salts on  reconstitution to one litre shall contain:   Sodium  \u2013 50 to 90 milliosmoles   Total osmolarity \u2013 240-290 milliosmoles Dextrose:  Sodium molar ratio \u2013 Not less than 1:1 and not more  than 3:1   (b) Patent and proprietary cereal based oral rehydration salts  on reconstitution to one litre shall contain:   Sodium \u2013 50 to  90 milliosmoles   Total osmolarity \u2013 Not more than 290 milliosmoles   Precooked rice \u2013 equivalent to not less than 50gms and  not more than 80gms as total replacement of dextrose",
+            "notification_no": ["57(E)"],
+            "date": ["07.02.1995"]
+        },
+        {
+            "sr_no": 53,
+            "drug_name": "Fixed dose combination of Oxyphenbutazone or  Phenylbutazone with any other drug.",
+            "notification_no": ["633(E)"],
+            "date": ["13.09.1"]
+        },
+        {
+            "sr_no": 54,
+            "drug_name": "Fixed dose combination of Analgin with any other drug .",
+            "notification_no": ["405(E)"],
+            "date": ["03.06"]
+        },
+        {
+            "sr_no": 55,
+            "drug_name": "Fixed dose combination of dextropropoxyphene with any other drug other than anti -spasmodics and/or non -steriodal anti - inflammatory drugs (NSAIDS).",
+            "notification_no": ["633(E)"],
+            "date": ["13.09.1995"]
+        },
+        {
+            "sr_no": 56,
+            "drug_name": "Fixed dose combination of a drug, standards of which are prescribed in the Second Schedule to the said Act with an Ayurvedic, Siddha or Unani drug.",
+            "notification_no": ["633(E)"],
+            "date": ["13.09.1995"]
+        },
+        {
+            "sr_no": 57,
+            "drug_name": "Mepacrine Hydrochloride (Quinacrine and its salts) in any dosage form for use for female sterilization or contraception.",
+            "notification_no": ["499(E)"],
+            "date": ["14.08.1998"]
+        },
+        {
+            "sr_no": 58,
+            "drug_name": "Fenfluramine",
+            "notification_no": ["499(E)"],
+            "date": ["14.08.1998"]
+        },
+        {
+            "sr_no": 59,
+            "drug_name": "Dexfenfluramine.",
+            "notification_no": ["499(E)"],
+            "date": ["14.08.1998"]
+        },
+        {
+            "sr_no": 60,
+            "drug_name": "Fixed dose combination of Diazepam and Diphenhydramine Hydrochloride.",
+            "notification_no": ["169(E)"],
+            "date": ["12.03.2001"]
+        },
+        {
+            "sr_no": 61,
+            "drug_name": "Cosmetics Licensed as toothpaste/tooth powder containing tobacco.",
+            "notification_no": ["444(E)"],
+            "date": ["30.04.1992"]
+        },
+        {
+            "sr_no": 62,
+            "drug_name": "Parenteal Preparations fixed combination of streptomycin with Penicillin.",
+            "notification_no": ["93(E)"],
+            "date": ["25.02.1997"]
+        },
+        {
+            "sr_no": 63,
+            "drug_name": "Fixed dose combination of Vitamin B1, Vitamin B6 and Vitamin B12 for human use.",
+            "notification_no": ["702(E)"],
+            "date": ["14.10.1999"]
+        },
+        {
+            "sr_no": 64,
+            "drug_name": "Fixed dose combination of haemoglobin in any form (natural or synthetic).",
+            "notification_no": ["814(E)"],
+            "date": ["16.12.1999"]
+        },
+        {
+            "sr_no": 65,
+            "drug_name": "Fixed dose combination of Pancreatin or Pa ncrelipase  containing amylase, protease and lipase with any other  enzyme.",
+            "notification_no": ["814(E)"],
+            "date": ["16.12.1999"]
+        },
+        {
+            "sr_no": 66,
+            "drug_name": "Fixed dose combination of Nitrofurantoin and trimethoprim.      GSR NO.  170(E)Dated   12.03.2001     67.  Fixed dose combination of Phenobarbitone with any  anti- asthmatic drugs.",
+            "notification_no": ["814(E)"],
+            "date": ["16.12.1999"]
+        },
+        {
+            "sr_no": 68,
+            "drug_name": "Fixed dose combination of Phenobarbitone  with Hyoscin  and/or Hyoscyamine",
+            "notification_no": ["170(E)"],
+            "date": ["12.03.2001"]
+        },
+        {
+            "sr_no": 69,
+            "drug_name": "Fixed dose combination of Phenobar bitone with Ergotamine  and/or Belladona",
+            "notification_no": ["170(E)"],
+            "date": ["12.03.2001"]
+        },
+        {
+            "sr_no": 70,
+            "drug_name": "Fixed dose combination of Haloperidol with any anti - cholinergic agent including Propantheline Bromide.",
+            "notification_no": ["170(E)"],
+            "date": ["12.03.2001"]
+        },
+        {
+            "sr_no": 71,
+            "drug_name": "Fixed dose combination of Nalidixic Acid with any anti - amoebic including Metronidazole.",
+            "notification_no": ["170(E)"],
+            "date": ["12.03.2001"]
+        },
+        {
+            "sr_no": 72,
+            "drug_name": "Fixed dose combination of Loperamide Hydrochloride with  Furazolidone",
+            "notification_no": ["170(E)"],
+            "date": ["12.03.2001"]
+        },
+        {
+            "sr_no": 73,
+            "drug_name": "Fixed dose combination of Cyproheptadine with Lysine or  Peptone.",
+           "notification_no": ["170(E)"],
+            "date": ["12.03.2001"]
+        },
+        {
+            "sr_no": 74,
+            "drug_name": "Astemizole  GSR NO.  191(E)Dated 0 5.03.2003   75.  Terfinadine  GSR NO.  191(E)Dated  05.03.2003   76.  Phenformin  GSR NO.  780(E)Dated   01.10.2003   77.  Rofecoxib  and its formulations",
+            "notification_no": ["810(E)"],
+            "date": ["13.12.2004"]
+        },
+        {
+            "sr_no": 78,
+            "drug_name": "Valdecoxib  and it s formulations",
+            "notification_no": ["510(E)"],
+            "date": ["28.07.2005"]
+        },
+        {
+            "sr_no": 79,
+            "drug_name": "Diclofenac and its formulations (for animal use)",
+            "notification_no": ["499(E)"],
+            "date": ["04.07.2008"]
+        },
+        {
+            "sr_no": 80,
+            "drug_name": "Rimonabant.",
+            "notification_no": ["884(E)"],
+            "date": ["11.12.2"]
+        },
+        {
+            "sr_no": 81,
+            "drug_name": "Rosiglitazone",
+            "notification_no": ["910(E)"],
+            "date": ["12.11.2010"]
+        },
+        {
+            "sr_no": 82,
+            "drug_name": "Nimesulide formulations for human use in children below 12  years   of age.",
+            "notification_no": ["82(E)"],
+            "date": ["10.02.2011"]
+        },
+        {
+            "sr_no": 83,
+            "drug_name": "Cisapride and its formulations for human use.",
+            "notification_no": ["82(E)"],
+            "date": ["10.02.2011"]
+        },
+        {
+            "sr_no": 84,
+            "drug_name": "* Phenypropanolamine and its formulations for human use. *",
+            "notification_no": ["82(E)"],
+            "date": ["10.02.2011"]
+        },
+        {
+            "sr_no": 85,
+            "drug_name": "Human Placental Extract and its formulations for human use  except its       1. Topical application for wound healing, and   2. Injection for pelvic inflammatory disease.  Substituted  vide GSR  NO.418(E)  Dated   30.05.2011   86.  Sibutramine and its formulations for human use.",
+            "notification_no": ["82(E)"],
+            "date": ["10.02.2011"]
+        },
+        {
+            "sr_no": 87,
+            "drug_name": "R-Sibutramine and its formulations for human use.",
+            "notification_no": ["82(E)"],
+            "date": ["10.02.2011"]
+        },
+        {
+            "sr_no": 88,
+            "drug_name": "\u201cGatifloxacin formulation for system ic use in human by any  route including     oral and injectable\u201d.",
+            "notification_no": ["218(E)"],
+            "date": ["16.03.2011"]
+        },
+        {
+            "sr_no": 89,
+            "drug_name": "Tegaserod and its formulations",
+            "notification_no": ["218(E)"],
+            "date": ["16.03.2011"]
+        },
+        {
+            "sr_no": 90,
+            "drug_name": "Letrozole for induction of ovulation in anovulatory infertility.",
+            "notification_no": ["752(E)"],
+            "date": ["1"]
+        },
+        {
+            "sr_no": 91,
+            "drug_name": "Serodiagnostic test kits for diagnosis of tuberculosis",
+            "notification_no": ["GSR 432(E)", "GSR 433(E)"],
+            "date": ["07.06.2012", "07.06.2012"]
+        },
+        {
+            "sr_no": 93,
+            "drug_name": "Fixed dose combination of Flupenthixol + Melitracen for human use",
+            "notification_no": ["G.S.R. 377 (E)", "G.S.R. 498 (E)"],
+            "date": ["18.6.2013", "11.07.2014"]
+        },
+          {
+            "sr_no": 94,
+            "drug_name": "Analgin and all formulations containing Analgin for human use",
+            "notification_no": ["G.S.R. 378(E)", "G.S.R. 86(E)"],
+            "date": ["18.6.2013", "13.2.20"],
+            "notes": "Initial suspension vide G.S.R. No 378(E) dated 18.6.2013 was revoked, allowing the use of the drug with certain conditions."
+          },
+           {
+            "sr_no": 95,
+            "drug_name": "Pioglitazone and all formulations containing Pioglitazone for human use",
+            "notification_no": ["G.S.R. 379 (E)"],
+            "date": ["18-6-2013"],
+            "notes": "Initial suspension vide G.S.R. No. 379 (E) dated 18-6-2013."
+          },
+          {
+            "sr_no": 97,
+            "drug_name": "Nimesulide + Diclofenac",
+            "notification_no": ["S.O. 706 (E)"],
+            "date": ["10.03.2016"]
+          },
+          {
+            "sr_no": 98,
+            "drug_name": "Nimesulide + Cetirizine + Caffeine",
+            "notification_no": ["S.O. 707 (E)"],
+            "date": ["10.03.2016"]
+          },
+          {
+            "sr_no": 99,
+            "drug_name": "Nimesulide + Tizanidine",
+            "notification_no": ["S.O. 708 (E)"],
+            "date": ["10.03.2016"]
+          },
+          {
+            "sr_no": 100,
+            "drug_name": "Paracetamol + Cetirizine + Caffeine",
+            "notification_no": ["S.O. 709 (E)"],
+            "date": ["10.03.2016"]
+          },
+          {
+            "sr_no": 101,
+            "drug_name": "Diclofenac + Tramadol + Chlorzoxazone",
+            "notification_no": ["S.O. 710 (E)"],
+            "date": ["10.03.2016"]
+          },
+          {
+            "sr_no": 102,
+            "drug_name": "Dicyclomine + Paracetamol + Domperidone",
+            "notification_no": ["S.O. 711 (E)"],
+            "date": ["10.03.2016"]
+          },
+          {
+            "sr_no": 103,
+            "drug_name": "Nimesulide + Paracetamol dispersible tablets",
+            "notification_no": ["S.O. 712 (E)"],
+            "date": ["10.03.2016"]
+          },
+          {
+            "sr_no": 104,
+            "drug_name": "Paracetamol + Phenylephrine + Caffeine",
+            "notification_no": ["S.O. 713 (E)"],
+            "date": ["10.03.2016"]
+          },
+          {
+            "sr_no": 105,
+            "drug_name": "Diclofenac + Tramadol + Paracetamol",
+            "notification_no": ["S.O. 714 (E)"],
+            "date": ["10.03.2016"]
+          },
+          {
+            "sr_no": 106,
+            "drug_name": "Diclofenac + Paracetamol + Chlorzoxazone + Famotidine",
+            "notification_no": ["S.O. 715 (E)"],
+            "date": ["10.03.2016"]
+          },
+          {
+            "sr_no": 107,
+            "drug_name": "Naproxen + Paracetamol",
+            "notification_no": ["S.O. 716 (E)"],
+            "date": ["10.03.2016"]
+          },
+          {
+            "sr_no": 108,
+            "drug_name": "Nimesulide + Serratiopeptidase",
+            "notification_no": ["S.O. 717 (E)"],
+            "date": ["10.03.2016"]
+          },
+          {
+            "sr_no": 109,
+            "drug_name": "Paracetamol + Diclofenac + Famotidine",
+            "notification_no": ["S.O. 718 (E)"],
+            "date": ["10.03.2016"]
+          },
+          {
+            "sr_no": 110,
+            "drug_name": "Nimesulide + Pitofenone + Fenpiverinium + Benzyl alcohol",
+            "notification_no": ["S.O. 719 (E)"],
+            "date": ["10.03.2016"]
+          },
+          {
+            "sr_no": 111,
+            "drug_name": "Omeprazole + Paracetamol + Diclofenac",
+            "notification_no": ["S.O. 720 (E)"],
+            "date": ["10.03.2016"]
+          },
+          {
+            "sr_no": 112,
+            "drug_name": "Nimesulide + Paracetamol injection",
+            "notification_no": ["S.O. 721 (E)"],
+            "date": ["10.03.2016"]
+          },
+          {
+            "sr_no": 113,
+            "drug_name": "Tamsulosin + Diclofenac",
+            "notification_no": ["S.O. 722 (E)"],
+            "date": ["10.03.2016"]
+          },
+          {
+            "sr_no": 114,
+            "drug_name": "Paracetamol + Phenylephrine + Chlorpheniramine + Dextromethorphan + Caffeine",
+            "notification_no": ["S.O. 723 (E)"],
+            "date": ["10.03.2016"]
+          },
+          {
+            "sr_no": 115,
+            "drug_name": "Diclofenac + Zinc Carnosine",
+            "notification_no": ["S.O. 724 (E)"],
+            "date": ["10.03.2016"]
+          },
+          {
+            "sr_no": 116,
+            "drug_name": "Diclofenac + Paracetamol + Chlorpheniramine Maleate + Magnesium Trisilicate",
+            "notification_no": ["S.O. 725 (E)"],
+            "date": ["10.03.2016"]
+          },
+          {
+            "sr_no": 117,
+            "drug_name": "Paracetamol + Pseudoephedrine + Cetirizine",
+            "notification_no": ["S.O. 726 (E)"],
+            "date": ["10.03.2016"]
+          },
+          {
+            "sr_no": 118,
+            "drug_name": "Phenylbutazone + Sodium Salicylate",
+            "notification_no": ["S.O. 727 (E)"],
+            "date": ["10.03.2016"]
+          },
+          {
+            "sr_no": 119,
+            "drug_name": "Lornoxicam + Paracetamol + Trypsin",
+            "notification_no": ["S.O. 728 (E)"],
+            "date": ["10.03.2016"]
+          },
+          {
+            "sr_no": 120,
+            "drug_name": "Paracetamol + Mefenamic Acid + Ranitidine + Dicyclomine",
+            "notification_no": ["S.O. 729 (E)"],
+            "date": ["10.03.2016"]
+          },
+          {
+            "sr_no": 121,
+            "drug_name": "Nimesulide + Dicyclomine",
+            "notification_no": ["S.O. 730 (E)"],
+            "date": ["10.03.2016"]
+          },
+          {
+            "sr_no": 122,
+            "drug_name": "Heparin + Diclofenac",
+            "notification_no": ["S.O. 731 (E)"],
+            "date": ["10.03.2016"]
+          },
+          {
+            "sr_no": 123,
+            "drug_name": "Glucosamine + Methyl SulfonylMethane + Vitamin D3 + Manganese + Boron + Copper + Zinc",
+            "notification_no": ["S.O. 732 (E)"],
+            "date": ["10.03.2016"]
+          },
+          {
+            "sr_no": 124,
+            "drug_name": "Paracetamol + Tapentadol",
+            "notification_no": ["S.O. 733 (E)"],
+            "date": ["10.03.2016"]
+          },
+          {
+            "sr_no": 125,
+            "drug_name": "Tranexamic Acid + Proanthocyanidin",
+            "notification_no": ["S.O. 734 (E)"],
+            "date": ["10.03.2016"]
+          },
+          {
+            "sr_no": 126,
+            "drug_name": "Benzoxonium Chloride + Lidocaine",
+            "notification_no": ["S.O. 735 (E)"],
+            "date": ["10.03.2016"]
+          },
+          {
+            "sr_no": 127,
+            "drug_name": "Lornoxicam + Paracetamol + Tramadol",
+            "notification_no": ["S.O. 736 (E)"],
+            "date": ["10.03.2016"]
+          },
+          {
+            "sr_no": 128,
+            "drug_name": "Lornoxicam + Paracetamol + Serratiopeptidase",
+            "notification_no": ["S.O. 737 (E)"],
+            "date": ["10.03.2016"]
+          },
+          {
+            "sr_no": 129,
+            "drug_name": "Diclofenac + Paracetamol + Magnesium trisilicate",
+            "notification_no": ["S.O. 738 (E)"],
+            "date": ["10.03.2016"]
+          },
+          {
+            "sr_no": 130,
+            "drug_name": "Paracetamol + Domperidone + Caffeine",
+            "notification_no": ["S.O. 739 (E)"],
+            "date": ["10.03.2016"]
+          },
+          {
+            "sr_no": 131,
+            "drug_name": "Ammonium Chloride + Sodium Citrate + Chlorpheniramine Maleate + Menthol",
+            "notification_no": ["S.O. 740 (E)"],
+            "date": ["10.03.2016"]
+          },
+          {
+            "sr_no": 132,
+            "drug_name": "Paracetamol + Prochlorperazine Maleate",
+            "notification_no": ["S.O. 741 (E)"],
+            "date": ["10.03.2016"]
+          },
+          {
+            "sr_no": 133,
+            "drug_name": "Combikit of 3 tablets of Serratiopeptidase (enteric coated 20000 units) + Diclofenac Potassium & 2 tablets of Doxycycline",
+            "notification_no": ["S.O. 742 (E)"],
+            "date": ["10.03.2016"]
+          },
+          {
+            "sr_no": 134,
+            "drug_name": "Nimesulide + Paracetamol suspension",
+            "notification_no": ["S.O. 743 (E)"],
+            "date": ["10.03.2016"]
+          },
+          {
+            "sr_no": 135,
+            "drug_name": "Aceclofenac + Paracetamol + Famotidine",
+            "notification_no": ["S.O. 744 (E)"],
+            "date": ["10.03.2016"]
+          },
+          {
+            "sr_no": 136,
+            "drug_name": "Aceclofenac + Zinc Carnosine",
+            "notification_no": ["S.O. 745 (E)"],
+            "date": ["10.03.2016"]
+          },
+          {
+            "sr_no": 137,
+            "drug_name": "Paracetamol + Disodium Hydrogen Citrate + Caffeine",
+            "notification_no": ["S.O. 746 (E)"],
+            "date": ["10.03.2016"]
+          },
+          {
+            "sr_no": 138,
+            "drug_name": "Paracetamol + DL Methionine",
+            "notification_no": ["S.O. 747 (E)"],
+            "date": ["10.03.2016"]
+          },
+          {
+            "sr_no": 139,
+            "drug_name": "Disodium Hydrogen citrate + Paracetamol",
+            "notification_no": ["S.O. 748 (E)"],
+            "date": ["10.03.2016"]
+          },
+          {
+            "sr_no": 140,
+            "drug_name": "Paracetamol + Caffeine + Codeine Phosphate",
+            "notification_no": ["S.O. 749 (E)"],
+            "date": ["10.03.2016"]
+          },
+          {
+            "sr_no": 141,
+            "drug_name": "Aceclofenac (SR) + Paracetamol",
+            "notification_no": ["S.O. 750 (E)"],
+            "date": ["10.03.2016"]
+          },
+          {
+            "sr_no": 142,
+            "drug_name": "Diclofenac + Paracetamol injection",
+            "notification_no": ["S.O. 751 (E)"],
+            "date": ["10.03.2016"]
+          },
+          {
+            "sr_no": 143,
+            "drug_name": "Azithromycin + Cefixime",
+            "notification_no": ["S.O. 752 (E)"],
+            "date": ["10.03.2016"]
+          },
+          {
+            "sr_no": 144,
+            "drug_name": "Amoxicillin + Dicloxacillin",
+            "notification_no": ["S.O. 753 (E)"],
+            "date": ["10.03.2016"]
+          },
+          {
+            "sr_no": 145,
+            "drug_name": "Amoxicillin 250 mg + Potassium Clavulanate Diluted 62.5 mg",
+            "notification_no": ["S.O. 754 (E)"],
+            "date": ["10.03.2016"]
+          },
+          {
+            "sr_no": 146,
+            "drug_name": "Azithromycin + Levofloxacin",
+            "notification_no": ["S.O. 755 (E)"],
+            "date": ["10.03.2016"]
+          },
+          {
+            "sr_no": 147,
+            "drug_name": "Cefixime + Linezolid",
+            "notification_no": ["S.O. 756 (E)"],
+            "date": ["10.03.2016"]
+          },
+          {
+            "sr_no": 148,
+            "drug_name": "Amoxicillin + Cefixime + Potassium Clavulanic Acid",
+            "notification_no": ["S.O. 757 (E)"],
+            "date": ["10.03.2016"]
+          },
+          {
+            "sr_no": 149,
+            "drug_name": "Ofloxacin + Nitazoxanide",
+            "notification_no": ["S.O. 758 (E)"],
+            "date": ["10.03.2016"]
+          },
+          {
+            "sr_no": 150,
+            "drug_name": "Cefpodoxime Proxetil + Levofloxacin",
+            "notification_no": ["S.O. 759 (E)"],
+            "date": ["10.03.2016"]
+          },
+          {
+            "sr_no": 151,
+            "drug_name": "Combikit of Azithromycin dihydrate, Secnidazole, and Fluconazole",
+            "notification_no": ["S.O. 760 (E)"],
+            "date": ["10.03.2016"]
+          },
+          {
+            "sr_no": 152,
+            "drug_name": "Levofloxacin + Ornidazole + Alpha Tocopherol Acetate",
+            "notification_no": ["S.O. 761 (E)"],
+            "date": ["10.03.2016"]
+          },
+          {
+            "sr_no": 153,
+            "drug_name": "Nimorazole + Ofloxacin",
+            "notification_no": ["S.O. 762 (E)"],
+            "date": ["10.03.2016"]
+          },
+          {
+            "sr_no": 154,
+            "drug_name": "Azithromycin + Ofloxacin",
+            "notification_no": ["S.O. 763 (E)"],
+            "date": ["10.03.2016"]
+          },
+          {
+            "sr_no": 155,
+            "drug_name": "Amoxycillin + Tinidazole",
+            "notification_no": ["S.O. 764 (E)"],
+            "date": ["10.03.2016"]
+          },
+          {
+            "sr_no": 156,
+            "drug_name": "Doxycycline + Serratiopeptidase",
+            "notification_no": ["S.O. 765 (E)"],
+            "date": ["10.03.2016"]
+          },
+          {
+            "sr_no": 157,
+            "drug_name": "Cefixime + Levofloxacin",
+            "notification_no": ["S.O. 766 (E)"],
+            "date": ["10.03.2016"]
+          },
+          {
+            "sr_no": 158,
+            "drug_name": "Ofloxacin + Metronidazole + Zinc Acetate",
+            "notification_no": ["S.O. 767 (E)"],
+            "date": ["10.03.2016"]
+          },
+          {
+            "sr_no": 159,
+            "drug_name": "Diphenoxylate + Atropine + Furazolidone",
+            "notification_no": ["S.O. 768 (E)"],
+            "date": ["10.03.2016"]
+          },
+          {
+            "sr_no": 160,
+            "drug_name": "Combikit of Fluconazole Tablet, Azithromycin Tablet, and Ornidazole Tablets",
+            "notification_no": ["S.O. 769 (E)"],
+            "date": ["10.03.2016"]
+          },
+          {
+            "sr_no": 161,
+            "drug_name": "Ciprofloxacin + Phenazopyridine",
+            "notification_no": ["S.O. 770 (E)"],
+            "date": ["10.03.2016"]
+          },
+          {
+            "sr_no": 162,
+            "drug_name": "Amoxycillin + Dicloxacillin + Serratiopeptidase",
+            "notification_no": ["S.O. 771 (E)"],
+            "date": ["10.03.2016"]
+          },
+          {
+            "sr_no": 163,
+            "drug_name": "Azithromycin + Cefpodoxime",
+            "notification_no": ["S.O. 772 (E)"],
+            "date": ["10.03.2016"]
+          },
+          {
+            "sr_no": 164,
+            "drug_name": "Lignocaine + Clotrimazole + Ofloxacin + Beclomethasone",
+            "notification_no": ["S.O. 773 (E)"],
+            "date": ["10.03.2016"]
+          },
+          {
+            "sr_no": 165,
+            "drug_name": "Cefuroxime + Linezolid",
+            "notification_no": ["S.O. 774 (E)"],
+            "date": ["10.03.2016"]
+          },
+          {
+            "sr_no": 166,
+            "drug_name": "Ofloxacin + Ornidazole + Zinc bisglycinate",
+            "notification_no": ["S.O. 775 (E)"],
+            "date": ["10.03.2016"]
+          },
+          {
+            "sr_no": 167,
+            "drug_name": "Metronidazole + Norfloxacin",
+            "notification_no": ["S.O. 776 (E)"],
+            "date": ["10.03.2016"]
+          },
+          {
+            "sr_no": 168,
+            "drug_name": "Amoxicillin + Bromhexine",
+            "notification_no": ["S.O. 777 (E)"],
+            "date": ["10.03.2016"]
+          },
+          {
+            "sr_no": 169,
+            "drug_name": "Ciprofloxacin + Fluticasone + Clotrimazole + Neomycin",
+            "notification_no": ["S.O. 778 (E)"],
+            "date": ["10.03.2016"]
+          },
+          {
+            "sr_no": 170,
+            "drug_name": "Metronidazole + Tetracycline",
+            "notification_no": ["S.O. 779 (E)"],
+            "date": ["10.03.2016"]
+          },
+          {
+            "sr_no": 171,
+            "drug_name": "Cephalexin + Neomycin + Prednisolone",
+            "notification_no": ["S.O. 780 (E)"],
+            "date": ["10.03.2016"]
+          },
+          {
+            "sr_no": 172,
+            "drug_name": "Azithromycin + Ambroxol",
+            "notification_no": ["S.O. 781 (E)"],
+            "date": ["10.03.2016"]
+          },
+          {
+            "sr_no": 173,
+            "drug_name": "Cilnidipine + Metoprolol Succinate + Metoprolol Tartrate",
+            "notification_no": ["S.O. 782 (E)"],
+            "date": ["10.03.2016"]
+          },
+          {
+            "sr_no": 174,
+            "drug_name": "L-Arginine + Sildenafil",
+            "notification_no": ["S.O. 783 (E)"],
+            "date": ["10.03.2016"]
+          },
+          {
+            "sr_no": 175,
+            "drug_name": "Atorvastatin + Vitamin D3 + Folic Acid + Vitamin B12 + Pyridoxine",
+            "notification_no": ["S.O. 784 (E)"],
+            "date": ["10.03.2016"]
+          },
+          {
+            "sr_no": 176,
+            "drug_name": "Metformin + Atorvastatin",
+            "notification_no": ["S.O. 785 (E)"],
+            "date": ["10.03.2016"]
+          },
+          {
+            "sr_no": 177,
+            "drug_name": "Clindamycin + Telmisartan",
+            "notification_no": ["S.O. 786 (E)"],
+            "date": ["10.03.2016"]
+          },
+          {
+            "sr_no": 178,
+            "drug_name": "Olmesartan + Hydrochlorothiazide + Chlorthalidone",
+            "notification_no": ["S.O. 787 (E)"],
+            "date": ["10.03.2016"]
+          },
+          {
+            "sr_no": 179,
+            "drug_name": "L-5-Methyltetrahydrofolate Calcium + Escitalopram",
+            "notification_no": ["S.O. 788 (E)"],
+            "date": ["10.03.2016"]
+          },
+          {
+            "sr_no": 180,
+            "drug_name": "Pholcodine + Promethazine",
+            "notification_no": ["S.O. 789 (E)"],
+            "date": ["10.03.2016"]
+          },
+          {
+            "sr_no": 181,
+            "drug_name": "Paracetamol + Promethazine",
+            "notification_no": ["S.O. 790 (E)"],
+            "date": ["10.03.2016"]
+          },
+          {
+            "sr_no": 182,
+            "drug_name": "Betahistine + Ginkgo Biloba Extract + Vinpocetine + Piracetam",
+            "notification_no": ["S.O. 791 (E)"],
+            "date": ["10.03.2016"]
+          },
+          {
+            "sr_no": 183,
+            "drug_name": "Cetirizine Dihydrochloride + Diethyl Carbamazine",
+            "notification_no": ["S.O. 792 (E)"],
+            "date": ["10.03.2016"]
+          },
+          {
+            "sr_no": 184,
+            "drug_name": "Doxylamine + Pyridoxine + Mefenamic Acid + Paracetamol",
+            "notification_no": ["S.O. 793 (E)"],
+            "date": ["10.03.2016"]
+          },
+          {
+            "sr_no": 185,
+            "drug_name": "Drotaverine + Clidinium + Chlordiazepoxide",
+            "notification_no": ["S.O. 794 (E)"],
+            "date": ["10.03.2016"]
+          },
+          {
+            "sr_no": 186,
+            "drug_name": "Imipramine + Diazepam",
+            "notification_no": ["S.O. 795 (E)"],
+            "date": ["10.03.2016"]
+          },
+          {
+            "sr_no": 187,
+            "drug_name": "Flupentixol + Escitalopram",
+            "notification_no": ["S.O. 796 (E)"],
+            "date": ["10.03.2016"]
+          },
+          {
+            "sr_no": 188,
+            "drug_name": "Paracetamol + Prochloperazine",
+            "notification_no": ["S.O. 797 (E)"],
+            "date": ["10.03.2016"]
+          },
+          {
+            "sr_no": 189,
+            "drug_name": "Gabapentin + Mecobalamin + Pyridoxine + Thiamine",
+            "notification_no": ["S.O. 798 (E)"],
+            "date": ["10.03.2016"]
+          },
+          {
+            "sr_no": 190,
+            "drug_name": "Imipramine + Chlordiazepoxide + Trifluoperazine + Trihexyphenidyl",
+            "notification_no": ["S.O. 799 (E)"],
+            "date": ["10.03.2016"]
+          },
+          {
+            "sr_no": 191,
+            "drug_name": "Chlorpromazine + Trihexyphenidyl",
+            "notification_no": ["S.O. 800 (E)"],
+            "date": ["10.03.2016"]
+          },
+          {
+            "sr_no": 192,
+            "drug_name": "Ursodeoxycholic Acid + Silymarin",
+            "notification_no": ["S.O. 801 (E)"],
+            "date": ["10.03.2016"]
+          },
+          {
+            "sr_no": 193,
+            "drug_name": "Metformin 1000/1000/500/500mg + Pioglitazone 7.5/7.5/7.5/7.5mg + Glimepiride 1/2/1/2mg",
+            "notification_no": ["S.O. 802 (E)"],
+            "date": ["10.03.2016"]
+          },
+          {
+            "sr_no": 194,
+            "drug_name": "Gliclazide 80 mg + Metformin 325 mg",
+            "notification_no": ["S.O. 803 (E)"],
+            "date": ["10.03.2016"]
+          },
+          {
+            "sr_no": 195,
+            "drug_name": "Voglibose + Metformin + Chromium Picolinate",
+            "notification_no": ["S.O. 804 (E)"],
+            "date": ["10.03.2016"]
+          },
+          {
+            "sr_no": 196,
+            "drug_name": "Pioglitazone 7.5/7.5mg + Metformin 500/1000mg",
+            "notification_no": ["S.O. 805 (E)"],
+            "date": ["10.03.2016"]
+          },
+          {
+            "sr_no": 197,
+            "drug_name": "Glimepiride 1mg/2mg/3mg + Pioglitazone 15mg/15mg/15mg + Metformin 1000mg/1000mg/1000mg",
+            "notification_no": ["S.O. 806 (E)"],
+            "date": ["10.03.2016"]
+          },
+          {
+            "sr_no": 198,
+            "drug_name": "Glimepiride 1mg/2mg + Pioglitazone 15mg/15mg + Metformin 850mg/850mg",
+            "notification_no": ["S.O. 807 (E)"],
+            "date": ["10.03.2016"]
+          },
+          {
+            "sr_no": 199,
+            "drug_name": "Metformin 850mg + Pioglitazone 7.5 mg + Glimepiride 2mg",
+            "notification_no": ["S.O. 808 (E)"],
+            "date": ["10.03.2016"]
+          },
+          {
+            "sr_no": 201,
+            "drug_name": "Metformin 500mg/500mg + Gliclazide SR 30mg/60mg + Pioglitazone 7.5mg/7.5mg",
+            "notification_no": "S.O. 810 (E)",
+            "date": "10.03.2016"
+          },
+          {
+            "sr_no": 202,
+            "drug_name": "Voglibose + Pioglitazone + Metformin",
+            "notification_no": "S.O. 811 (E)",
+            "date": "10.03.2016"
+          },
+          {
+            "sr_no": 203,
+            "drug_name": "Metformin + Bromocriptine",
+            "notification_no": "S.O. 812 (E)",
+            "date": "10.03.2016"
+          },
+          {
+            "sr_no": 204,
+            "drug_name": "Metformin + Glimepiride + Methylcobalamin",
+            "notification_no": "S.O. 813 (E)",
+            "date": "10.03.2016"
+          },
+          {
+            "sr_no": 205,
+            "drug_name": "Pioglitazone 30 mg + Metformin 500mg",
+            "notification_no": "S.O. 814 (E)",
+            "date": "10.03.2016"
+          },
+          {
+            "sr_no": 206,
+            "drug_name": "Glimepiride + Pioglitazone + Metformin",
+            "notification_no": "S.O. 815 (E)",
+            "date": "10.03.2016"
+          },
+          {
+            "sr_no": 207,
+            "drug_name": "Glipizide 2.5mg + Metformin 400mg",
+            "notification_no": "S.O. 816 (E)",
+            "date": "10.03.2016"
+          },
+          {
+            "sr_no": 208,
+            "drug_name": "Pioglitazone 15mg + Metformin 850 mg",
+            "notification_no": "S.O. 817 (E)",
+            "date": "10.03.2016"
+          },
+          {
+            "sr_no": 209,
+            "drug_name": "Metformin ER + Gliclazide MR + Voglibose",
+            "notification_no": "S.O. 818 (E)",
+            "date": "10.03.2016"
+          },
+          {
+            "sr_no": 210,
+            "drug_name": "Chromium Polynicotinate + Metformin Hydrochloride",
+            "notification_no": "S.O. 819 (E)",
+            "date": "10.03.2016"
+          },
+          {
+            "sr_no": 211,
+            "drug_name": "Metformin Hydrochloride + Gliclazide + Pioglitazone + Chromium Polynicotinate",
+            "notification_no": "S.O. 820 (E)",
+            "date": "10.03.2016"
+          },
+          {
+            "sr_no": 212,
+            "drug_name": "Metformin + Gliclazide + Chromium Polynicotinate",
+            "notification_no": "S.O. 821 (E)",
+            "date": "10.03.2016"
+          },
+          {
+            "sr_no": 213,
+            "drug_name": "Glibenclamide + Metformin (SR) + Pioglitazone",
+            "notification_no": "S.O. 822 (E)",
+            "date": "10.03.2016"
+          },
+          {
+            "sr_no": 214,
+            "drug_name": "Metformin (Sustained Release) 500mg + Pioglitazone 15mg + Glimepiride 3mg",
+            "notification_no": "S.O. 823 (E)",
+            "date": "10.03.2016"
+          },
+          {
+            "sr_no": 215,
+            "drug_name": "Metformin (SR) 500mg + Pioglitazone 5mg",
+            "notification_no": "S.O. 824 (E)",
+            "date": "10.03.2016"
+          },
+          {
+            "sr_no": 216,
+            "drug_name": "Chloramphenicol + Beclomethasone + Clotrimazole + Lignocaine",
+            "notification_no": "S.O. 825 (E)",
+            "date": "10.03.2016"
+          },
+          {
+            "sr_no": 217,
+            "drug_name": "Clotrimazole + Ofloxacin + Lignocaine + Glycerine + Propylene Glycol",
+            "notification_no": "S.O. 826 (E)",
+            "date": "10.03.2016"
+          },
+          {
+            "sr_no": 218,
+            "drug_name": "Chloramphenicol + Lignocaine + Betamethasone + Clotrimazole + Ofloxacin + Antipyrine",
+            "notification_no": "S.O. 827 (E)",
+            "date": "10.03.2016"
+          },
+          {
+            "sr_no": 219,
+            "drug_name": "Ofloxacin + Clotrimazole + Betamethasone + Lignocaine",
+            "notification_no": "S.O. 828 (E)",
+            "date": "10.03.2016"
+          },
+          {
+            "sr_no": 220,
+            "drug_name": "Gentamicin Sulphate + Clotrimazole + Betamethasone + Lignocaine",
+            "notification_no": "S.O. 829 (E)",
+            "date": "10.03.2016"
+          },
+          {
+            "sr_no": 221,
+            "drug_name": "Clotrimazole + Beclomethasone + Ofloxacin + Lignocaine",
+            "notification_no": "S.O. 830 (E)",
+            "date": "10.03.2016"
+          },
+          {
+            "sr_no": 222,
+            "drug_name": "Beclomethasone + Clotrimazole + Chloramphenicol + Gentamycin + Lignocaine (Ear Drops)",
+            "notification_no": "S.O. 831 (E)",
+            "date": "10.03.2016"
+          },
+          {
+            "sr_no": 223,
+            "drug_name": "Flunarizine + Paracetamol + Domperidone",
+            "notification_no": "S.O. 832 (E)",
+            "date": "10.03.2016"
+          },
+          {
+            "sr_no": 224,
+            "drug_name": "Rabeprazole + Zinc Carnosine",
+            "notification_no": "S.O. 833 (E)",
+            "date": "10.03.2016"
+          },
+          {
+            "sr_no": 225,
+            "drug_name": "Magaldrate + Famotidine + Simethicone",
+            "notification_no": "S.O. 834 (E)",
+            "date": "10.03.2016"
+          },
+          {
+            "sr_no": 226,
+            "drug_name": "Cyproheptadine + Thiamine",
+            "notification_no": "S.O. 835 (E)",
+            "date": "10.03.2016"
+          },
+          {
+            "sr_no": 227,
+            "drug_name": "Magaldrate + Ranitidine + Pancreatin + Domperidone",
+            "notification_no": "S.O. 836 (E)",
+            "date": "10.03.2016"
+          },
+          {
+            "sr_no": 228,
+            "drug_name": "Ranitidine + Magaldrate + Simethicone",
+            "notification_no": "S.O. 837 (E)",
+            "date": "10.03.2016"
+          },
+          {
+            "sr_no": 229,
+            "drug_name": "Magaldrate + Papain + Fungal Diastase + Simethicone",
+            "notification_no": "S.O. 838 (E)",
+            "date": "10.03.2016"
+          },
+          {
+            "sr_no": 230,
+            "drug_name": "Rabeprazole + Zinc + Domperidone",
+            "notification_no": "S.O. 839 (E)",
+            "date": "10.03.2016"
+          },
+          {
+            "sr_no": 231,
+            "drug_name": "Famotidine + Oxetacaine + Magaldrate",
+            "notification_no": "S.O. 840 (E)",
+            "date": "10.03.2016"
+          },
+          {
+            "sr_no": 232,
+            "drug_name": "Ranitidine + Domperidone + Simethicone",
+            "notification_no": "S.O. 841 (E)",
+            "date": "10.03.2016"
+          },
+          {
+            "sr_no": 233,
+            "drug_name": "Alginic Acid + Sodium Bicarbonate + Dried Aluminium Hydroxide + Magnesium Hydroxide",
+            "notification_no": "S.O. 842 (E)",
+            "date": "10.03.2016"
+          },
+          {
+            "sr_no": 234,
+            "drug_name": "Clidinium + Paracetamol + Dicyclomine + Activated Dimethicone",
+            "notification_no": "S.O. 843 (E)",
+            "date": "10.03.2016"
+          },
+          {
+            "sr_no": 235,
+            "drug_name": "Furazolidone + Metronidazole + Loperamide",
+            "notification_no": "S.O. 844 (E)",
+            "date": "10.03.2016"
+          },
+          {
+            "sr_no": 236,
+            "drug_name": "Rabeprazole + Diclofenac + Paracetamol",
+            "notification_no": "S.O. 845 (E)",
+            "date": "10.03.2016"
+          },
+          {
+            "sr_no": 237,
+            "drug_name": "Ranitidine + Magaldrate",
+            "notification_no": "S.O. 846 (E)",
+            "date": "10.03.2016"
+          },
+          {
+            "sr_no": 238,
+            "drug_name": "Norfloxacin + Metronidazole + Zinc Acetate",
+            "notification_no": "S.O. 847 (E)",
+            "date": "10.03.2016"
+          },
+          {
+            "sr_no": 239,
+            "drug_name": "Zinc Carnosine + Oxetacaine",
+            "notification_no": "S.O. 848 (E)",
+            "date": "10.03.2016"
+          },
+          {
+            "sr_no": 240,
+            "drug_name": "Oxetacaine + Magaldrate + Famotidine",
+            "notification_no": "S.O. 849 (E)",
+            "date": "10.03.2016"
+          },
+          {
+            "sr_no": 241,
+            "drug_name": "Pantoprazole (as Enteric Coated Tablet) + Zinc Carnosine (as Film Coated Tablets)",
+            "notification_no": "S.O. 850 (E)",
+            "date": "10.03.2016"
+          },
+          {
+            "sr_no": 242,
+            "drug_name": "Zinc Carnosine + Magnesium Hydroxide + Dried Aluminium Hydroxide + Simethicone",
+            "notification_no": "S.O. 851 (E)",
+            "date": "10.03.2016"
+          },
+          {
+            "sr_no": 243,
+            "drug_name": "Zinc Carnosine + Sucralfate",
+            "notification_no": "S.O. 852 (E)",
+            "date": "10.03.2016"
+          },
+          {
+            "sr_no": 244,
+            "drug_name": "Mebeverine Hydrochloride & Inner HPMC Capsule (Streptococcus Faecalis + Clostridium Butyricum + Bacillus Mesentricus + Lactic Acid Bacillus)",
+            "notification_no": "S.O. 853 (E)",
+            "date": "10.03.2016"
+          },
+          {
+            "sr_no": 245,
+            "drug_name": "Clindamycin + Clotrimazole + Lactic Acid Bacillus",
+            "notification_no": "S.O. 854 (E)",
+            "date": "10.03.2016"
+          },
+          {
+            "sr_no": 246,
+            "drug_name": "Sildenafil + Estradiol Valerate",
+            "notification_no": "S.O. 855 (E)",
+            "date": "10.03.2016"
+          },
+          {
+            "sr_no": 247,
+            "drug_name": "Clomifene Citrate + Ubidecarenone + Zinc + Folic Acid + Methylcobalamin + Pyridoxine + Lycopene + Selenium + Levocarnitine Tartrate + L-Arginine",
+            "notification_no": "S.O. 856 (E)",
+            "date": "10.03.2016"
+          },
+          {
+            "sr_no": 248,
+            "drug_name": "Thyroxine + Pyridoxine + Folic Acid",
+            "notification_no": "S.O. 857 (E)",
+            "date": "10.03.2016"
+          },
+          {
+            "sr_no": 249,
+            "drug_name": "Gentamycin + Dexamethasone + Chloramphenicol + Tobramycin + Ofloxacin",
+            "notification_no": "S.O. 858 (E)",
+            "date": "10.03.2016"
+          },
+          {
+            "sr_no": 250,
+            "drug_name": "Dextromethorphan + Levocetirizine + Phenylephrine + Zinc",
+            "notification_no": "S.O. 859 (E)",
+            "date": "10.03.2016"
+          },
+          {
+            "sr_no": 251,
+            "drug_name": "Nimesulide + Loratadine + Phenylephrine + Ambroxol",
+            "notification_no": "S.O. 860 (E)",
+            "date": "10.03.2016"
+          },
+          {
+            "sr_no": 252,
+            "drug_name": "Bromhexine + Phenylephrine + Chlorpheniramine Maleate",
+            "notification_no": "S.O. 861 (E)",
+            "date": "10.03.2016"
+          },
+          {
+            "sr_no": 253,
+            "drug_name": "Dextromethorphan + Bromhexine + Guaiphenesin",
+            "notification_no": "S.O. 862 (E)",
+            "date": "10.03.2016"
+          },
+          {
+            "sr_no": 254,
+            "drug_name": "Paracetamol + Loratadine + Phenylephrine + Dextromethorphan + Caffeine",
+            "notification_no": "S.O. 863 (E)",
+            "date": "10.03.2016"
+          },
+          {
+            "sr_no": 255,
+            "drug_name": "Nimesulide + Phenylephrine + Caffeine + Levocetirizine",
+            "notification_no": "S.O. 864 (E)",
+            "date": "10.03.2016"
+          },
+          {
+            "sr_no": 256,
+            "drug_name": "Azithromycin + Acebrophylline",
+            "notification_no": "S.O. 865 (E)",
+            "date": "10.03.2016"
+          },
+          {
+            "sr_no": 257,
+            "drug_name": "Diphenhydramine + Terpine + Ammonium Chloride + Sodium Chloride + Menthol",
+            "notification_no": "S.O. 866 (E)",
+            "date": "10.03.2016"
+          },
+          {
+            "sr_no": 258,
+            "drug_name": "Nimesulide + Paracetamol + Cetirizine + Phenylephrine",
+            "notification_no": "S.O. 867 (E)",
+            "date": "10.03.2016"
+          },
+          {
+            "sr_no": 259,
+            "drug_name": "Paracetamol + Loratadine + Dextromethorphan + Pseudoephedrine + Caffeine",
+            "notification_no": "S.O. 868 (E)",
+            "date": "10.03.2016"
+          },
+          {
+            "sr_no": 260,
+            "drug_name": "Chlorpheniramine Maleate + Dextromethorphan + Guaiphenesin + Ammonium Chloride + Menthol",
+            "notification_no": "S.O. 869 (E)",
+            "date": "10.03.2016"
+          },
+          {
+            "sr_no": 261,
+            "drug_name": "Chlorpheniramine Maleate + Ammonium Chloride + Sodium Citrate",
+            "notification_no": "S.O. 870 (E)",
+            "date": "10.03.2016"
+          },
+          {
+            "sr_no": 262,
+            "drug_name": "Cetirizine + Phenylephrine + Paracetamol + Zinc Gluconate",
+            "notification_no": "S.O. 871 (E)",
+            "date": "10.03.2016"
+          },
+          {
+            "sr_no": 263,
+            "drug_name": "Ambroxol + Guaiphenesin + Ammonium Chloride + Phenylephrine + Chlorpheniramine Maleate + Menthol",
+            "notification_no": "S.O. 872 (E)",
+            "date": "10.03.2016"
+          },
+          {
+            "sr_no": 264,
+            "drug_name": "Dextromethorphan + Bromhexine + Chlorpheniramine Maleate + Guaiphenesin",
+            "notification_no": "S.O. 873 (E)",
+            "date": "10.03.2016"
+          },
+          {
+            "sr_no": 265,
+            "drug_name": "Levocetirizine + Ambroxol + Phenylephrine + Guaiphenesin",
+            "notification_no": "S.O. 874 (E)",
+            "date": "10.03.2016"
+          },
+          {
+            "sr_no": 266,
+            "drug_name": "Dextromethorphan + Chlorpheniramine + Chlorpheniramine Maleate",
+            "notification_no": "S.O. 875 (E)",
+            "date": "10.03.2016"
+          },
+          {
+            "sr_no": 267,
+            "drug_name": "Cetirizine + Ambroxol + Guaiphenesin + Ammonium Chloride + Phenylephrine + Menthol",
+            "notification_no": "S.O. 876 (E)",
+            "date": "10.03.2016"
+          },
+          {
+            "sr_no": 268,
+            "drug_name": "Chlorpheniramine + Phenylephrine + Caffeine",
+            "notification_no": "S.O. 877 (E)",
+            "date": "10.03.2016"
+          },
+          {
+            "sr_no": 269,
+            "drug_name": "Dextromethorphan + Triprolidine + Phenylephrine",
+            "notification_no": "S.O. 878 (E)",
+            "date": "10.03.2016"
+          },
+          {
+            "sr_no": 270,
+            "drug_name": "Terpin Hydrate + Dextromethorphan + Menthol",
+            "notification_no": "S.O. 879 (E)",
+            "date": "10.03.2016"
+          },
+          {
+            "sr_no": 271,
+            "drug_name": "Dextromethorphan + Phenylephrine + Zinc Gluconate + Menthol",
+            "notification_no": "S.O. 880 (E)",
+            "date": "10.03.2016"
+          },
+          {
+            "sr_no": 272,
+            "drug_name": "Chlorpheniramine + Codeine + Sodium Citrate + Menthol Syrup",
+            "notification_no": "S.O. 881 (E)",
+            "date": "10.03.2016"
+          },
+          {
+            "sr_no": 273,
+            "drug_name": "Enrofloxacin + Bromhexine",
+            "notification_no": "S.O. 882 (E)",
+            "date": "10.03.2016"
+          },
+          {
+            "sr_no": 274,
+            "drug_name": "Bromhexine + Dextromethorphan + Phenylephrine + Menthol",
+            "notification_no": "S.O. 883 (E)",
+            "date": "10.03.2016"
+          },
+          {
+            "sr_no": 275,
+            "drug_name": "Levofloxacin + Bromhexine",
+            "notification_no": "S.O. 884 (E)",
+            "date": "10.03.2016"
+          },
+          {
+            "sr_no": 276,
+            "drug_name": "Levocetirizine + Ranitidine",
+            "notification_no": "S.O. 885 (E)",
+            "date": "10.03.2016"
+          },
+          {
+            "sr_no": 277,
+            "drug_name": "Levocetirizine + Phenylephrine + Ambroxol + Guaiphenesin + Paracetamol",
+            "notification_no": "S.O. 886 (E)",
+            "date": "10.03.2016"
+          },
+          {
+            "sr_no": 278,
+            "drug_name": "Cetirizine + Dextromethorphan + Phenylephrine + Zinc Gluconate + Paracetamol + Menthol",
+            "notification_no": "S.O. 887 (E)",
+            "date": "10.03.2016"
+          },
+          {
+            "sr_no": 279,
+            "drug_name": "Paracetamol + Pseudoephedrine + Dextromethorphan + Cetirizine",
+            "notification_no": "S.O. 888 (E)",
+            "date": "10.03.2016"
+          },
+          {
+            "sr_no": 280,
+            "drug_name": "Diphenhydramine + Guaiphenesin + Ammonium Chloride + Bromhexine",
+            "notification_no": "S.O. 889 (E)",
+            "date": "10.03.2016"
+          },
+          {
+            "sr_no": 281,
+            "drug_name": "Chlorpheniramine + Dextromethorphan + Phenylephrine + Paracetamol",
+            "notification_no": "S.O. 890 (E)",
+            "date": "10.03.2016"
+          },
+          {
+            "sr_no": 282,
+            "drug_name": "Dextromethorphan + Promethazine",
+            "notification_no": "S.O. 891 (E)",
+            "date": "10.03.2016"
+          },
+          {
+            "sr_no": 283,
+            "drug_name": "Diethylcarbamazine + Cetirizine + Guaiphenesin",
+            "notification_no": "S.O. 892 (E)",
+            "date": "10.03.2016"
+          },
+          {
+            "sr_no": 284,
+            "drug_name": "Pseudoephedrine + Dextromethorphan + Cetirizine",
+            "notification_no": "S.O. 893 (E)",
+            "date": "10.03.2016"
+          },
+          {
+            "sr_no": 285,
+            "drug_name": "Chlorpheniramine + Phenylephrine + Dextromethorphan + Menthol",
+            "notification_no": "S.O. 894 (E)",
+            "date": "10.03.2016"
+          },
+          {
+            "sr_no": 286,
+            "drug_name": "Ambroxol + Terbutaline + Dextromethorphan",
+            "notification_no": "S.O. 895 (E)",
+            "date": "10.03.2016"
+          },
+          {
+            "sr_no": 287,
+            "drug_name": "Dextromethorphan + Chlorpheniramine + Guaiphenesin",
+            "notification_no": "S.O. 896 (E)",
+            "date": "10.03.2016"
+          },
+          {
+            "sr_no": 288,
+            "drug_name": "Terbutaline + Bromhexine + Guaiphenesin + Dextromethorphan",
+            "notification_no": "S.O. 897 (E)",
+            "date": "10.03.2016"
+          },
+          {
+            "sr_no": 289,
+            "drug_name": "Dextromethorphan + Triprolidine + Phenylephrine",
+            "notification_no": "S.O. 898 (E)",
+            "date": "10.03.2016"
+          },
+          {
+            "sr_no": 290,
+            "drug_name": "Paracetamol + Dextromethorphan + Chlorpheniramine",
+            "notification_no": "S.O. 899 (E)",
+            "date": "10.03.2016"
+          },
+          {
+            "sr_no": 291,
+            "drug_name": "Pholcodine + Phenylephrine + Promethazine",
+            "notification_no": "S.O. 900 (E)",
+            "date": "10.03.2016"
+          },
+          {
+            "sr_no": 292,
+            "drug_name": "Codeine + Levocetirizine + Menthol",
+            "notification_no": "S.O. 901 (E)",
+            "date": "10.03.2016"
+          },
+          {
+            "sr_no": 293,
+            "drug_name": "Dextromethorphan + Ambroxol + Guaifenesin + Phenylephrine + Chlorpheniramine",
+            "notification_no": "S.O. 902 (E)",
+            "date": "10.03.2016"
+          },
+          {
+            "sr_no": 294,
+            "drug_name": "Cetirizine + Phenylephrine + Dextromethorphan + Menthol",
+            "notification_no": "S.O. 903 (E)",
+            "date": "10.03.2016"
+          },
+          {
+            "sr_no": 295,
+            "drug_name": "Roxithromycin + Serratiopeptidase",
+            "notification_no": "S.O. 904 (E)",
+            "date": "10.03.2016"
+          },
+          {
+            "sr_no": 296,
+            "drug_name": "Paracetamol + Phenylephrine + Triprolidine",
+            "notification_no": "S.O. 905 (E)",
+            "date": "10.03.2016"
+          },
+          {
+            "sr_no": 297,
+            "drug_name": "Acetaminophen + Loratadine + Ambroxol + Phenylephrine",
+            "notification_no": "S.O. 906 (E)",
+            "date": "10.03.2016"
+          },
+          {
+            "sr_no": 298,
+            "drug_name": "Cetirizine + Acetaminophen + Dextromethorphan + Phenylephrine + Zinc Gluconate",
+            "notification_no": "S.O. 907 (E)",
+            "date": "10.03.2016"
+          },
+          {
+            "sr_no": 299,
+            "drug_name": "Diphenhydramine + Guaifenesin + Bromhexine + Ammonium Chloride + Menthol",
+            "notification_no": "S.O. 908 (E)",
+            "date": "10.03.2016"
+          },
+          {
+            "sr_no": 300,
+            "drug_name": "Chlorpheniramine Maleate + Codeine Syrup",
+            "notification_no": "S.O. 909 (E)",
+            "date": "10.03.2016"
+          },
+          {
+            "sr_no": 301,
+            "drug_name": "Cetirizine + Dextromethorphan + Zinc Gluconate + Menthol",
+            "notification_no": "S.O. 910 (E)",
+            "date": "10.03.2016"
+          },
+          {
+            "sr_no": 302,
+            "drug_name": "Paracetamol + Phenylephrine + Desloratadine + Zinc Gluconate + Ambroxol",
+            "notification_no": "S.O. 911 (E)",
+            "date": "10.03.2016"
+          },
+          {
+            "sr_no": 303,
+            "drug_name": "Levocetirizine + Montelukast + Acebrophylline",
+            "notification_no": "S.O. 912 (E)",
+            "date": "10.03.2016"
+          },
+          {
+            "sr_no": 304,
+            "drug_name": "Dextromethorphan + Phenylephrine + Ammonium Chloride + Menthol",
+            "notification_no": "S.O. 913 (E)",
+            "date": "10.03.2016"
+          },
+          {
+            "sr_no": 305,
+            "drug_name": "Dextromethorphan + Bromhexine + Guaiphenesin + Menthol",
+            "notification_no": "S.O. 914 (E)",
+            "date": "10.03.2016"
+          },
+          {
+            "sr_no": 306,
+            "drug_name": "Acrivastine + Paracetamol + Caffeine + Phenylephrine",
+            "notification_no": "S.O. 915 (E)",
+            "date": "10.03.2016"
+          },
+          {
+            "sr_no": 307,
+            "drug_name": "Naphazoline + Carboxy Methyl Cellulose + Menthol + Camphor + Phenylephrine",
+            "notification_no": "S.O. 916 (E)",
+            "date": "10.03.2016"
+          },
+          {
+            "sr_no": 308,
+            "drug_name": "Dextromethorphan + Cetirizine",
+            "notification_no": "S.O. 917 (E)",
+            "date": "10.03.2016"
+          },
+          {
+            "sr_no": 309,
+            "drug_name": "Nimesulide + Paracetamol + Levocetirizine + Phenylephrine + Caffeine",
+            "notification_no": "S.O. 918 (E)",
+            "date": "10.03.2016"
+          },
+          {
+            "sr_no": 310,
+            "drug_name": "Terbutaline + Ambroxol + Guaiphenesin + Zinc + Menthol",
+            "notification_no": "S.O. 919 (E)",
+            "date": "10.03.2016"
+          },
+          {
+            "sr_no": 311,
+            "drug_name": "Codeine + Chlorpheniramine + Alcohol Syrup",
+            "notification_no": "S.O. 920 (E)",
+            "date": "10.03.2016"
+          },
+          {
+            "sr_no": 312,
+            "drug_name": "Dextromethorphan + Phenylephrine + Guaifenesin + Triprolidine",
+            "notification_no": "S.O. 921 (E)",
+            "date": "10.03.2016"
+          },
+          {
+            "sr_no": 313,
+            "drug_name": "Ammonium Chloride + Bromhexine + Dextromethorphan",
+            "notification_no": "S.O. 922 (E)",
+            "date": "10.03.2016"
+          },
+          {
+            "sr_no": 314,
+            "drug_name": "Diethylcarbamazine + Cetirizine + Ambroxol",
+            "notification_no": "S.O. 923 (E)",
+            "date": "10.03.2016"
+          },
+          {
+            "sr_no": 315,
+            "drug_name": "Ethylmorphine + Noscapine + Chlorpheniramine Maleate",
+            "notification_no": "S.O. 924 (E)",
+            "date": "10.03.2016"
+          },
+          {
+            "sr_no": 316,
+            "drug_name": "Cetirizine + Dextromethorphan + Ambroxol",
+            "notification_no": "S.O. 925 (E)",
+            "date": "10.03.2016"
+          },
+          {
+            "sr_no": 317,
+            "drug_name": "Bromhexine + Dextromethorphan + Ammonium Chloride + Menthol",
+            "notification_no": "S.O. 926 (E)",
+            "date": "10.03.2016"
+          },
+          {
+            "sr_no": 318,
+            "drug_name": "Ambroxol + Guaifenesin + Phenylephrine + Chlorpheniramine",
+            "notification_no": "S.O. 927 (E)",
+            "date": "10.03.2016"
+          },
+          {
+            "sr_no": 319,
+            "drug_name": "Paracetamol + Phenylephrine + Chlorpheniramine + Zinc Gluconate",
+            "notification_no": "S.O. 928 (E)",
+            "date": "10.03.2016"
+          },
+          {
+            "sr_no": 320,
+            "drug_name": "Dextromethorphan + Phenylephrine + Cetirizine + Paracetamol + Caffeine",
+            "notification_no": "S.O. 929 (E)",
+            "date": "10.03.2016"
+          },
+          {
+            "sr_no": 321,
+            "drug_name": "Dextromethorphan + Chlorpheniramine + Guaifenesin + Ammonium Chloride",
+            "notification_no": "S.O. 930 (E)",
+            "date": "10.03.2016"
+          },
+          {
+            "sr_no": 322,
+            "drug_name": "Levocetirizine + Dextromethorphan + Zinc",
+            "notification_no": "S.O. 931 (E)",
+            "date": "10.03.2016"
+          },
+          {
+            "sr_no": 323,
+            "drug_name": "Paracetamol + Phenylephrine + Levocetirizine + Caffeine",
+            "notification_no": "S.O. 932 (E)",
+            "date": "10.03.2016"
+          },
+          {
+            "sr_no": 324,
+            "drug_name": "Chlorpheniramine + Ammonium Chloride + Sodium Chloride",
+            "notification_no": "S.O. 933 (E)",
+            "date": "10.03.2016"
+          },
+          {
+            "sr_no": 325,
+            "drug_name": "Paracetamol + Dextromethorphan + Bromhexine + Phenylephrine + Diphenhydramine",
+            "notification_no": "S.O. 934 (E)",
+            "date": "10.03.2016"
+          },
+          {
+            "sr_no": 326,
+            "drug_name": "Salbutamol + Bromhexine + Guaiphenesin + Menthol",
+            "notification_no": "S.O. 935 (E)",
+            "date": "10.03.2016"
+          },
+          {
+            "sr_no": 327,
+            "drug_name": "Chlorpheniramine + Ammonium Chloride + Noscapine + Sodium Citrate",
+            "notification_no": "S.O. 936 (E)",
+            "date": "10.03.2016"
+          },
+          {
+            "sr_no": 328,
+            "drug_name": "Cetirizine + Dextromethorphan + Bromhexine + Guaifenesin",
+            "notification_no": "S.O. 937 (E)",
+            "date": "10.03.2016"
+          },
+          {
+            "sr_no": 329,
+            "drug_name": "Diethyl Carbamazine + Chlorpheniramine + Guaifenesin",
+            "notification_no": "S.O. 938 (E)",
+            "date": "10.03.2016"
+          },
+          {
+            "sr_no": 330,
+            "drug_name": "Ketotifen + Cetirizine",
+            "notification_no": "S.O. 939 (E)",
+            "date": "10.03.2016"
+          },
+          {
+            "sr_no": 331,
+            "drug_name": "Terbutaline + Bromhexine + Etofylline",
+            "notification_no": "S.O. 940 (E)",
+            "date": "10.03.2016"
+          },
+          {
+            "sr_no": 332,
+            "drug_name": "Ketotifen + Theophylline",
+            "notification_no": "S.O. 941 (E)",
+            "date": "10.03.2016"
+          },
+          {
+            "sr_no": 333,
+            "drug_name": "Ambroxol + Salbutamol + Theophylline",
+            "notification_no": "S.O. 942 (E)",
+            "date": "10.03.2016"
+          },
+          {
+            "sr_no": 334,
+            "drug_name": "Cetirizine + Nimesulide + Phenylephrine",
+            "notification_no": "S.O. 943 (E)",
+            "date": "10.03.2016"
+          },
+          {
+            "sr_no": 335,
+            "drug_name": "Chloropheniramine + Phenylephrine + Paracetamol + Zinc Gluconate",
+            "notification_no": "S.O. 944 (E)",
+            "date": "10.03.2016"
+          },
+          {
+            "sr_no": 336,
+            "drug_name": "Acetaminophen + Guaifenesin + Dextromethorphan + Chlorpheniramine",
+            "notification_no": "S.O. 945 (E)",
+            "date": "10.03.2016"
+          },
+          {
+            "sr_no": 337,
+            "drug_name": "Cetirizine + Dextromethorphan + Phenylephrine + Tulsi",
+            "notification_no": "S.O. 946 (E)",
+            "date": "10.03.2016"
+          },
+          {
+            "sr_no": 338,
+            "drug_name": "Cetirizine + Phenylephrine + Paracetamol + Ambroxol + Caffeine",
+            "notification_no": "S.O. 947 (E)",
+            "date": "10.03.2016"
+          },
+          {
+            "sr_no": 339,
+            "drug_name": "Guaifenesin + Dextromethorphan",
+            "notification_no": "S.O. 948 (E)",
+            "date": "10.03.2016"
+          },
+          {
+            "sr_no": 340,
+            "drug_name": "Levocetirizine + Paracetamol + Phenylephrine + Caffeine",
+            "notification_no": "S.O. 949 (E)",
+            "date": "10.03.2016"
+          },
+          {
+            "sr_no": 341,
+            "drug_name": "Caffeine + Paracetamol + Phenylephrine + Chlorpheniramine",
+            "notification_no": "S.O. 950 (E)",
+            "date": "10.03.2016"
+          },
+          {
+            "sr_no": 342,
+            "drug_name": "Ketotifen + Levocetirizine",
+            "notification_no": "S.O. 951 (E)",
+            "date": "10.03.2016"
+          },
+          {
+            "sr_no": 343,
+            "drug_name": "Paracetamol + Levocetirizine + Phenylephrine + Zinc Gluconate",
+            "notification_no": "S.O. 952 (E)",
+            "date": "10.03.2016"
+          },
+          {
+            "sr_no": 344,
+            "drug_name": "Paracetamol + Phenylephrine + Triprolidine + Caffeine",
+            "notification_no": "S.O. 953 (E)",
+            "date": "10.03.2016"
+          },
+          {
+            "sr_no": 345,
+            "drug_name": "Caffeine + Paracetamol + Phenylephrine + Cetirizine",
+            "notification_no": "S.O. 954 (E)",
+            "date": "10.03.2016"
+          },
+          {
+            "sr_no": 346,
+            "drug_name": "Dextromethorphan + Phenylephrine + Guaifenesin",
+            "notification_no": "S.O. 955 (E)",
+            "date": "10.03.2016"
+          },
+          {
+            "sr_no": 347,
+            "drug_name": "Ambroxol + Levocetirizine + Phenylephrine + Guaiphenesin + Menthol",
+            "notification_no": "S.O. 956 (E)",
+            "date": "10.03.2016"
+          },
+          {
+            "sr_no": 348,
+            "drug_name": "Pseudoephedrine + Cetirizine",
+            "notification_no": "S.O. 957 (E)",
+            "date": "10.03.2016"
+          },
+          {
+            "sr_no": 349,
+            "drug_name": "Dextromethorphan + Chlorpheniramine + Ammonium Chloride + Menthol",
+            "notification_no": "S.O. 958 (E)",
+            "date": "10.03.2016"
+          },
+          {
+            "sr_no": 350,
+            "drug_name": "Paracetamol + Caffeine + Phenylephrine + Chlorpheniramine",
+            "notification_no": "S.O. 959 (E)",
+            "date": "10.03.2016"
+          },
+          {
+            "sr_no": 351,
+            "drug_name": "Salbutamol + Aminophylline + Guaifenesin",
+            "notification_no": "S.O. 960 (E)",
+            "date": "10.03.2016"
+          },
+          {
+            "sr_no": 352,
+            "drug_name": "Salbutamol + Theophylline + Bromhexine",
+            "notification_no": "S.O. 961 (E)",
+            "date": "10.03.2016"
+          },
+          {
+            "sr_no": 353,
+            "drug_name": "Chlorpheniramine + Dextromethorphan + Guaifenesin + Phenylephrine",
+            "notification_no": "S.O. 962 (E)",
+            "date": "10.03.2016"
+          },
+          {
+            "sr_no": 354,
+            "drug_name": "Caffeine + Paracetamol + Chlorpheniramine",
+            "notification_no": "S.O. 963 (E)",
+            "date": "10.03.2016"
+          },
+          {
+            "sr_no": 355,
+            "drug_name": "Ammonium Chloride + Dextromethorphan + Cetirizine + Menthol",
+            "notification_no": "S.O. 964 (E)",
+            "date": "10.03.2016"
+          },
+          {
+            "sr_no": 356,
+            "drug_name": "Dextromethorphan + Paracetamol + Cetirizine + Phenylephrine",
+            "notification_no": "S.O. 965 (E)",
+            "date": "10.03.2016"
+          },
+          {
+            "sr_no": 357,
+            "drug_name": "Chlorpheniramine + Terpin + Antimony Potassium Tartrate + Ammonium chloride + Sodium Citrate + Menthol",
+            "notification_no": "S.O. 966 (E)",
+            "date": "10.03.2016"
+          },
+          {
+            "sr_no": 358,
+            "drug_name": "Terbutaline Sulphate + Etofylline + Ambroxol",
+            "notification_no": "S.O. 967 (E)",
+            "date": "10.03.2016"
+          },
+          {
+            "sr_no": 359,
+            "drug_name": "Paracetamol + Codeine + Chlorpheniramine",
+            "notification_no": "S.O. 968 (E)",
+            "date": "10.03.2016"
+          },
+          {
+            "sr_no": 360,
+            "drug_name": "Paracetamol + Pseudoephedrine + Cetirizine + Caffeine",
+            "notification_no": "S.O. 969 (E)",
+            "date": "10.03.2016"
+          },
+          {
+            "sr_no": 361,
+            "drug_name": "Chlorpheniramine + Ammonium Chloride + Menthol",
+            "notification_no": "S.O. 970 (E)",
+            "date": "10.03.2016"
+          },
+          {
+            "sr_no": 362,
+            "drug_name": "N-Acetyl Cysteine + Ambroxol + Phenylephrine + Levocetirizine",
+            "notification_no": "S.O. 971 (E)",
+            "date": "10.03.2016"
+          },
+          {
+            "sr_no": 363,
+            "drug_name": "Dextromethorphan + Phenylephrine + Tripolidine + Menthol",
+            "notification_no": "S.O. 972 (E)",
+            "date": "10.03.2016"
+          },
+          {
+            "sr_no": 364,
+            "drug_name": "Salbutamol + Cetirizine + Ambroxol",
+            "notification_no": "S.O. 973 (E)",
+            "date": "10.03.2016"
+          },
+          {
+            "sr_no": 365,
+            "drug_name": "Dextromethorphan + Phenylephrine + Bromhexine + Guaifenesin + Chlorpheniramine",
+            "notification_no": "S.O. 974 (E)",
+            "date": "10.03.2016"
+          },
+          {
+            "sr_no": 366,
+            "drug_name": "Nimesulide + Cetirizine + Phenylephrine",
+            "notification_no": "S.O. 975 (E)",
+            "date": "10.03.2016"
+          },
+          {
+            "sr_no": 367,
+            "drug_name": "Naphazoline + Chlorpheniramine + Zinc Sulphate + Boric Acid IP + Sodium Chloride + Chlorobutol",
+            "notification_no": "S.O. 976 (E)",
+            "date": "10.03.2016"
+          },
+          {
+            "sr_no": 368,
+            "drug_name": "Paracetamol + Bromhexine + Phenylephrine + Chlorpheniramine + Guaifenesin",
+            "notification_no": "S.O. 977 (E)",
+            "date": "10.03.2016"
+          },
+          {
+            "sr_no": 369,
+            "drug_name": "Salbutamol + Bromhexine",
+            "notification_no": "S.O. 978 (E)",
+            "date": "10.03.2016"
+          },
+          {
+            "sr_no": 370,
+            "drug_name": "Dextromethorphan + Phenylephrine + Guaifenesin + Cetirizine + Acetaminophen",
+            "notification_no": "S.O. 979 (E)",
+            "date": "10.03.2016"
+          },
+          {
+            "sr_no": 371,
+            "drug_name": "Guaifenesin + Bromhexine + Chlorpheniramine + Paracetamol",
+            "notification_no": "S.O. 980 (E)",
+            "date": "10.03.2016"
+          },
+          {
+            "sr_no": 372,
+            "drug_name": "Chlorpheniramine + Ammonium Chloride + Chloroform + Menthol",
+            "notification_no": "S.O. 981 (E)",
+            "date": "10.03.2016"
+          },
+          {
+            "sr_no": 373,
+            "drug_name": "Salbutamol + Choline Theophylinate + Ambroxol",
+            "notification_no": "S.O. 982 (E)",
+            "date": "10.03.2016"
+          },
+          {
+            "sr_no": 374,
+            "drug_name": "Chlorpheniramine + Codeine Phosphate + Menthol Syrup",
+            "notification_no": "S.O. 983 (E)",
+            "date": "10.03.2016"
+          },
+          {
+            "sr_no": 375,
+            "drug_name": "Pseudoephedrine + Bromhexine",
+            "notification_no": "S.O. 984 (E)",
+            "date": "10.03.2016"
+          },
+          {
+            "sr_no": 376,
+            "drug_name": "Cetirizine + Phenylephrine + Paracetamol + Caffeine + Nimesulide",
+            "notification_no": "S.O. 985 (E)",
+            "date": "10.03.2016"
+          },
+          {
+            "sr_no": 377,
+            "drug_name": "Dextromethorphan + Cetirizine + Guaifenesin + Ammonium Chloride",
+            "notification_no": "S.O. 986 (E)",
+            "date": "10.03.2016"
+          },
+          {
+            "sr_no": 378,
+            "drug_name": "Ambroxol + Salbutamol + Choline Theophyllinate + Menthol",
+            "notification_no": "S.O. 987 (E)",
+            "date": "10.03.2016"
+          },
+          {
+            "sr_no": 379,
+            "drug_name": "Paracetamol + Chlorpheniramine + Ambroxol + Guaifenesin + Phenylephrine",
+            "notification_no": "S.O. 988 (E)",
+            "date": "10.03.2016"
+          },
+          {
+            "sr_no": 380,
+            "drug_name": "Chlorpheniramine + Vasaka + Tolubalsm + Ammonium Chloride + Sodium Citrate + Menthol",
+            "notification_no": "S.O. 989 (E)",
+            "date": "10.03.2016"
+          },
+          {
+            "sr_no": 381,
+            "drug_name": "Bromhexine + Cetirizine + Phenylephrine + Guaifenesin + Menthol",
+            "notification_no": "S.O. 990 (E)",
+            "date": "10.03.2016"
+          },
+          {
+            "sr_no": 382,
+            "drug_name": "Dextromethorphan + Ambroxol + Ammonium Chloride + Chlorpheniramine + Menthol",
+            "notification_no": "S.O. 991 (E)",
+            "date": "10.03.2016"
+          },
+          {
+            "sr_no": 383,
+            "drug_name": "Dextromethorphan + Phenylephrine + Cetirizine + Zinc + Menthol",
+            "notification_no": "S.O. 992 (E)",
+            "date": "10.03.2016"
+          },
+          {
+            "sr_no": 384,
+            "drug_name": "Terbutaline + N-Acetyl L-Cysteine + Guaifenesin",
+            "notification_no": "S.O. 993 (E)",
+            "date": "10.03.2016"
+          },
+          {
+            "sr_no": 385,
+            "drug_name": "Calcium Gluconate + Levocetirizine",
+            "notification_no": "S.O. 994 (E)",
+            "date": "10.03.2016"
+          },
+          {
+            "sr_no": 386,
+            "drug_name": "Paracetamol + Levocetirizine + Pseudoephedrine",
+            "notification_no": "S.O. 995 (E)",
+            "date": "10.03.2016"
+          },
+          {
+            "sr_no": 387,
+            "drug_name": "Salbutamol + Choline Theophylinate + Carbocisteine",
+            "notification_no": "S.O. 996 (E)",
+            "date": "10.03.2016"
+          },
+          {
+            "sr_no": 388,
+            "drug_name": "Chlorpheniramine + Vitamin C",
+            "notification_no": "S.O. 997 (E)",
+            "date": "10.03.2016"
+          },
+          {
+            "sr_no": 389,
+            "drug_name": "Calcium Gluconate + Chlorpheniramine + Vitamin C",
+            "notification_no": "S.O. 998 (E)",
+            "date": "10.03.2016"
+          },
+          {
+            "sr_no": 390,
+            "drug_name": "Chlorpheniramine + Paracetamol + Pseudoephedrine + Caffeine",
+            "notification_no": "S.O. 999 (E)",
+            "date": "10.03.2016"
+          },
+          {
+            "sr_no": 391,
+            "drug_name": "Guaifenesin + Bromhexine + Chlorpheniramine + Phenylephrine + Paracetamol + Serratiopeptidase (as enteric coated granules) 10000 SP Units",
+            "notification_no": "S.O. 1000 (E)",
+            "date": "10.03.2016"
+          },
+          {
+            "sr_no": 392,
+            "drug_name": "Paracetamol + Pheniramine",
+            "notification_no": "S.O. 1001 (E)",
+            "date": "10.03.2016"
+          },
+          {
+            "sr_no": 393,
+            "drug_name": "Betamethasone + Fusidic Acid + Gentamycin + Tolnaftate + Iodochlorhydroxyquinoline (ICHQ)",
+            "notification_no": "S.O. 1002 (E)",
+            "date": "10.03.2016"
+          },
+          {
+            "sr_no": 394,
+            "drug_name": "Clobetasol + Ofloxacin + Miconazole + Zinc Sulphate",
+            "notification_no": "S.O. 1003 (E)",
+            "date": "10.03.2016"
+          },
+          {
+            "sr_no": 395,
+            "drug_name": "Clobetasol + Gentamicin + Miconazole + Zinc Sulphate",
+            "notification_no": "S.O. 1004 (E)",
+            "date": "10.03.2016"
+          },
+          {
+            "sr_no": 396,
+            "drug_name": "Levocetirizine + Ambroxol + Phenylephrine + Paracetamol",
+            "notification_no": "S.O. 1005 (E)",
+            "date": "10.03.2016"
+          },
+          {
+            "sr_no": 397,
+            "drug_name": "Permethrin + Cetrimide + Menthol",
+            "notification_no": "S.O. 1006 (E)",
+            "date": "10.03.2016"
+          },
+          {
+            "sr_no": 398,
+            "drug_name": "Beclomethasone + Clotrimazole + Neomycin + Iodochlorhydroxyquinoline",
+            "notification_no": "S.O. 1007 (E)",
+            "date": "10.03.2016"
+          },
+          {
+            "sr_no": 399,
+            "drug_name": "Neomycin + Doxycycline",
+            "notification_no": "S.O. 1008 (E)",
+            "date": "10.03.2016"
+          },
+          {
+            "sr_no": 400,
+            "drug_name": "Ciprofloxacin + Fluocinolone + Clotrimazole + Neomycin + Chlorocresol",
+            "notification_no": "S.O. 1009 (E)",
+            "date": "10.03.2016"
+          },
+          {
+            "sr_no": 401,
+            "drug_name": "Clobetasol + Ofloxacin + Ketoconazole + Zinc Sulphate",
+            "notification_no": "S.O. 1010 (E)",
+            "date": "10.03.2016"
+          },
+          {
+            "sr_no": 402,
+            "drug_name": "Betamethasone + Gentamicin + Tolnaftate + Iodochlorhydroxyquinoline",
+            "notification_no": "S.O. 1011 (E)",
+            "date": "10.03.2016"
+          },
+          {
+            "sr_no": 403,
+            "drug_name": "Clobetasol + Gentamicin + Tolnaftate + Iodochlorhydroxyquinoline + Ketoconazole",
+            "notification_no": "S.O. 1012 (E)",
+            "date": "10.03.2016"
+          },
+          {
+            "sr_no": 404,
+            "drug_name": "Allantoin + Dimethicone + Urea + Propylene + Glycerin + Liquid Paraffin",
+            "notification_no": "S.O. 1013 (E)",
+            "date": "10.03.2016"
+          },
+          {
+            "sr_no": 405,
+            "drug_name": "Acriflavine + Thymol + Cetrimide",
+            "notification_no": "S.O. 1014 (E)",
+            "date": "10.03.2016"
+          },
+          {
+            "sr_no": 406,
+            "drug_name": "Betamethasone + Neomycin + Tolnaftate + Iodochlorhydroxyquinoline + Chlorocresol",
+            "notification_no": "S.O. 1015 (E)",
+            "date": "10.03.2016"
+          },
+          {
+            "sr_no": 407,
+            "drug_name": "Clobetasol + Neomycin + Miconazole + Clotrimazole",
+            "notification_no": "S.O. 1016 (E)",
+            "date": "10.03.2016"
+          },
+          {
+            "sr_no": 408,
+            "drug_name": "Ketoconazole + Tea Tree Oil + Allantoin + Zinc Oxide + Aloe Vera + Jojoba Oil + Lavender Oil + Soap Noodles",
+            "notification_no": "S.O. 1017 (E)",
+            "date": "10.03.2016"
+          },
+          {
+            "sr_no": 409,
+            "drug_name": "Clobetasol + Ofloxacin + Ornidazole + Terbinafine",
+            "notification_no": "S.O. 1018 (E)",
+            "date": "10.03.2016"
+          },
+          {
+            "sr_no": 410,
+            "drug_name": "Clobetasol + Neomycin + Miconazole + Zinc Sulphate",
+            "notification_no": "S.O. 1019 (E)",
+            "date": "10.03.2016"
+          },
+          {
+            "sr_no": 411,
+            "drug_name": "Beclomethasone + Neomycin + Tolnaftate + Iodochlorhydroxyquinoline + Chlorocresol",
+            "notification_no": "S.O. 1020 (E)",
+            "date": "10.03.2016"
+          },
+          {
+            "sr_no": 412,
+            "drug_name": "Betamethasone + Gentamycin + Zinc Sulphate + Clotrimazole + Chlorocresol",
+            "notification_no": "S.O. 1021 (E)",
+            "date": "10.03.2016"
+          },
+          {
+            "sr_no": 413,
+            "drug_name": "Borax + Boric Acid + Naphazoline + Menthol + Camphor + Methyl Hydroxy Benzoate",
+            "notification_no": "S.O. 1022 (E)",
+            "date": "10.03.2016"
+          },
+          {
+            "sr_no": 414,
+            "drug_name": "Bromhexine + Dextromethorphan",
+            "notification_no": "S.O. 1023 (E)",
+            "date": "10.03.2016"
+          },
+          {
+            "sr_no": 415,
+            "drug_name": "Dextromethorphan + Chlorpheniramine + Bromhexine",
+            "notification_no": "S.O. 1024 (E)",
+            "date": "10.03.2016"
+          },
+          {
+            "sr_no": 416,
+            "drug_name": "Menthol + Anesthetic Ether",
+            "notification_no": "S.O. 1025 (E)",
+            "date": "10.03.2016"
+          },
+          {
+            "sr_no": 417,
+            "drug_name": "Dextromethorphan + Chlorpheniramine + Ammonium Chloride + Sodium Citrate + Menthol",
+            "notification_no": "S.O. 1026 (E)",
+            "date": "10.03.2016"
+          },
+          {
+            "sr_no": 418,
+            "drug_name": "Ergotamine Tartrate + Belladona Dry Extract + Caffeine + Paracetamol",
+            "notification_no": "S.O. 1027 (E)",
+            "date": "10.03.2016"
+          },
+          {
+            "sr_no": 419,
+            "drug_name": "Phenytoin + Phenobarbitone Sodium",
+            "notification_no": "S.O. 1028 (E)",
+            "date": "10.03.2016"
+          },
+          {
+            "sr_no": 420,
+            "drug_name": "Gliclazide 40mg + Metformin 400mg",
+            "notification_no": "S.O. 1029 (E)",
+            "date": "10.03.2016"
+          },
+          {
+            "sr_no": 421,
+            "drug_name": "Paracetamol + Ambroxol + Phenylephrine + Chlorpheniramine",
+            "notification_no": "S.O. 1030 (E)",
+            "date": "10.03.2016"
+          },
+          {
+            "sr_no": 422,
+            "drug_name": "Ofloxacin + Ornidazole Suspension",
+            "notification_no": "S.O. 1031 (E)",
+            "date": "10.03.2016"
+          },
+          {
+            "sr_no": 423,
+            "drug_name": "Albuterol + Etofylline + Bromhexine + Menthol",
+            "notification_no": "S.O. 1032 (E)",
+            "date": "10.03.2016"
+          },
+          {
+            "sr_no": 424,
+            "drug_name": "Albuterol + Bromhexine + Theophylline",
+            "notification_no": "S.O. 1033 (E)",
+            "date": "10.03.2016"
+          },
+          {
+            "sr_no": 425,
+            "drug_name": "Salbutamol + Hydroxyethyltheophylline (Etofylline) + Bromhexine",
+            "notification_no": "S.O. 1034 (E)",
+            "date": "10.03.2016"
+          },
+          {
+            "sr_no": 426,
+            "drug_name": "Paracetamol + Phenylephrine + Levocetirizine + Sodium Citrate",
+            "notification_no": "S.O. 1035 (E)",
+            "date": "10.03.2016"
+          },
+          {
+            "sr_no": 427,
+            "drug_name": "Paracetamol + Propyphenazone + Caffeine",
+            "notification_no": "S.O. 1036 (E)",
+            "date": "10.03.2016"
+          },
+          {
+            "sr_no": 428,
+            "drug_name": "Guaifenesin + Diphenhydramine + Bromhexine + Phenylephrine",
+            "notification_no": "S.O. 1037 (E)",
+            "date": "10.03.2016"
+          },
+          {
+            "sr_no": 429,
+            "drug_name": "Dried Aluminium Hydroxide Gel + Propantheline Bromide + Diazepam",
+            "notification_no": "S.O. 1038 (E)",
+            "date": "10.03.2016"
+          },
+          {
+            "sr_no": 430,
+            "drug_name": "Bromhexine + Phenylephrine + Chlorpheniramine + Paracetamol",
+            "notification_no": "S.O. 1039 (E)",
+            "date": "10.03.2016"
+          },
+          {
+            "sr_no": 431,
+            "drug_name": "Beclomethasone + Clotrimazole + Gentamicin + IodoChlorhydroxyquinoline",
+            "notification_no": "S.O. 1040 (E)",
+            "date": "10.03.2016"
+          },
+          {
+            "sr_no": 432,
+            "drug_name": "Telmisartan + Metformin",
+            "notification_no": "S.O. 1041 (E)",
+            "date": "10.03.2016"
+          },
+          {
+            "sr_no": 433,
+            "drug_name": "Ammonium Citrate + Vitamin B12 + Folic Acid + Zinc Sulphate",
+            "notification_no": "S.O. 1042 (E)",
+            "date": "10.03.2016"
+          },
+          {
+            "sr_no": 434,
+            "drug_name": "Levothyroxine Pyridoxine + Nicotinamide",
+            "notification_no": "S.O. 1043 (E)",
+            "date": "10.03.2016"
+          },
+          {
+            "sr_no": 435,
+            "drug_name": "Benfotiamine + Metformin",
+            "notification_no": "S.O. 1044 (E)",
+            "date": "10.03.2016"
+          },
+          {
+            "sr_no": 436,
+            "drug_name": "Thyroid + Thiamine + Riboflavin + Pyridoxine + Calcium Pantothenate + Tocopheryl Acetate + Nicotinamide",
+            "notification_no": "S.O. 1045 (E)",
+            "date": "10.03.2016"
+          },
+          {
+            "sr_no": 437,
+            "drug_name": "Ascorbic Acid + Manadione Sodium Bisulphate + Rutin + Dibasic Calcium Phosphate + Adrenochrome Mono Semicarbazone",
+            "notification_no": "S.O. 1046 (E)",
+            "date": "10.03.2016"
+          },
+          {
+            "sr_no": 438,
+            "drug_name": "Phenylephrine + Chlorpheniramine + Paracetamol + Bromhexine + Caffeine",
+            "notification_no": "S.O. 1047 (E)",
+            "date": "10.03.2016"
+          },
+          {
+            "sr_no": 440,
+            "drug_name": "Fixed Dose Combination of Nimesulide + Levocetirizine",
+            "notification_no": "S.O. 1851 (E)",
+            "date": "08.06.2017"
+          },
+          {
+            "sr_no": 441,
+            "drug_name": "Fixed Dose Combination of Ofloxacin + Ornidazole (Injection)",
+            "notification_no": "S.O. 1852 (E)",
+            "date": "08.06.2017"
+          },
+          {
+            "sr_no": 442,
+            "drug_name": "Fixed Dose Combination of Gemifloxacin + Ambroxol",
+            "notification_no": "S.O. 1853 (E)",
+            "date": "08.06.2017"
+          },
+          {
+            "sr_no": 443,
+            "drug_name": "Fixed Dose Combination of Glucosamine + Ibuprofen",
+            "notification_no": "S.O. 1854 (E)",
+            "date": "08.06.2017"
+          },
+          {
+            "sr_no": 444,
+            "drug_name": "Fixed Dose Combination of Etodolac + Paracetamol",
+            "notification_no": "S.O. 1855 (E)",
+            "date": "08.06.2017"
+          }
+          
+    ]
+}
